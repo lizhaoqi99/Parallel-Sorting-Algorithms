@@ -1,5 +1,4 @@
-# 549 Final Project
-Repository for the 549 Final Project.  
+# Parallel Sorting Algorithms
 Will feature:  
 1. Sequential/Parallel merge sort
 2. Sequential/Parallel quick sort
