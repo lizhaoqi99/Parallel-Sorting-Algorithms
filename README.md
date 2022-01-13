@@ -22,3 +22,5 @@ $ docker run -v $(pwd):/test -it cilk
 $ clang -fcilkplus TestRunner.c -o test.exe -lm
 $ ./test.exe
 ```
+Paper:
+https://drive.google.com/file/d/1tfnkGKAODk788QL0JWI4B-6IQCLpI6t5/view?usp=sharing
